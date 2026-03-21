@@ -1,9 +1,9 @@
 # 🌳 ZenGrowth: The Mindful Focus Companion
 
-[![Status](https://img.shields.io/badge/Status-In_Review-yellow.svg)]()
+[![Status](https://img.shields.io/badge/Status-Live-green.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-Microsoft_Edge-blue.svg)]()
 
-> **Link to Edge Add-ons Store:** *[Coming Soon - Pending Microsoft Approval]*
+> **Link to Edge Add-ons Store:** *https://microsoftedge.microsoft.com/addons/detail/jfiljnkcllogihgmccgdlhdlbdpmagfi*
 
 ## 📌 The Problem
 Web browsers are designed for infinite exploration, which often leads to "time blindness" and digital hyperactivity. Standard website blockers are easily bypassed and fail to address the underlying psychological impulse to procrastinate. 
